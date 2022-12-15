@@ -1,0 +1,24 @@
+.important{
+    border: 3px solid red;
+}
+div{
+    margin: 20px;
+    border: 1px solid gray;
+    padding: 5px;
+}
+h3{
+    margin-top: 0px;
+}
+#main{
+    overflow-wrap: break-word;
+    width: 50%;
+}
+#name{
+    margin-bottom: 10px;
+}
+.boxLabel{
+    display: inline-block;
+}
+#submit{
+    display: block;
+}
